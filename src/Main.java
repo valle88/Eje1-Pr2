@@ -17,6 +17,6 @@ public class Main {
         while(cola.getCantidad() >0){
             suma += cola.dequque();
         }
-        System.out.println("el valor final es: " +suma);
+        System.out.println("El valor final es: " +suma);
     }
 }
